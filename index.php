@@ -46,7 +46,7 @@ function fill_region_select_box($connect)
   <div class="container">
    <h3 align="center">Add Remove Select Box Fields Dynamically using jQuery Ajax in PHP</h3>
    <br />
-   <h4 align="center">Enter Item Details</h4>
+   <h4 align="center">Enter Product Details</h4>
    <br />
    <form method="post" id="insert_form">
     <div class="table-repsonsive">
